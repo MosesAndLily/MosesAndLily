@@ -40,16 +40,3 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
  </p>
-
-## **My Activity** (To be Productive :sweat_smile:)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-## **My Github Stats** (Just for Personal Use :innocent:):
-[![My GitHub's stats](https://github-readme-stats.vercel.app/api?username=mosesnah-shared)](https://github.com/anuraghazra/github-readme-stats)
