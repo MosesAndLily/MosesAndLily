@@ -23,7 +23,7 @@ For my Master's Thesis, I studied the dynamic manipulation of flexible, deformab
        <img alt="GIF" src="videos/3D_whip.gif" width="100%" />
     </td>
     <td align="center" style="border:0px; width:50%;">
-       <img alt="MOV" src="videos/baxter_demo.mp4" width="100%" />
+       <img alt="MP4" src="videos/baxter_demo.mp4" width="100%" />
     </td>
   </tr>
 </table>
