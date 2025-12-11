@@ -1,0 +1,1 @@
+Provide me a commit title and message for git, without Claude AI authorship. Ask me once you are done and feel free to commit directly if I said yes.
