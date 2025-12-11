@@ -12,7 +12,7 @@ I graduated Summa Cum Laude from [Seoul National University (SNU)](https://en.sn
 ## Devoting my life to Robotics
 In my early twenties, I decided to devote my career to robotics, deeply influenced by the works of [**Norbert Wiener**](https://en.wikipedia.org/wiki/Norbert_Wiener)—specifically [**Cybernetics**](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine) and [**The Human Use of Human Beings**](https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings). 
 The [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) movement is where the field of robotics was born.
-The way Cybernetics bridged neuroscience, biology, information theory, and control theory to explain the complex mechanisms of living organisms deeply inspired me. That inspiration drove me to craft my [Statement of Purpose](CV/SOP_MIT_MECHE.pdf), and I was fortunate to be accepted to MIT—the very place where Wiener once taught in the Department of Mathematics
+The way Cybernetics bridged neuroscience, biology, information theory, and control theory to explain the complex mechanisms of living organisms deeply inspired me. That inspiration drove me to craft my [**Statement of Purpose**](CV/SOP_MIT_MECHE.pdf), and I was fortunate to be accepted to MIT—the very place where Wiener once taught in the Department of Mathematics
 
 ## Research - Key Videos 
 For my Master's Thesis, I studied the dynamic manipulation of flexible, deformable objects.
