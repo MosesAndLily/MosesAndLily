@@ -23,7 +23,7 @@ For my Master's Thesis, I studied the dynamic manipulation of flexible, deformab
        <img alt="3D Whip GIF" src="videos/3D_whip.gif" width="100%" />
     </td>
     <td align="center" style="border:0px; width:50%;">
-       <video src="videos/baxter_demo.mp4" width="100%" controls muted autoplay loop></video>
+       <video src="https://github.com/user-attachments/assets/ca6eb637-a450-4c07-9965-d15418ec45c8" width="100%" controls muted autoplay loop></video>
     </td>
   </tr>
 </table>
