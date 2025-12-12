@@ -20,7 +20,10 @@ For my Master's Thesis, I studied the dynamic manipulation of flexible, deformab
 <table style="border:0px; width:100%;">
   <tr style="border:0px;">
     <td align="center" style="border:0px; width:50%;">
-       <img alt="GIF" src="videos/3D_whip.gif" width="100%" />
+       <img alt="3D Whip GIF" src="videos/3D_whip.gif" width="100%" />
+    </td>
+    <td align="center" style="border:0px; width:50%;">
+       <video src="videos/baxter_demo.mp4" width="100%" controls muted autoplay loop></video>
     </td>
   </tr>
 </table>
