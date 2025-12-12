@@ -19,11 +19,11 @@ For my Master's Thesis, I studied the dynamic manipulation of flexible, deformab
 
 <table style="border:0px; width:100%;">
   <tr style="border:0px;">
-    <td align="center" style="border:0px; width:50%;">
+    <td align="center" style="border:0px; width:70%;">
        <img alt="3D Whip GIF" src="videos/3D_whip.gif" width="100%" />
     </td>
-    <td align="center" style="border:0px; width:50%;">
-       <video src="https://github.com/user-attachments/assets/ca6eb637-a450-4c07-9965-d15418ec45c8" width="100%" controls muted autoplay loop></video>
+    <td align="center" style="border:0px; width:30%;">
+       <video src="https://github.com/user-attachments/assets/ca6eb637-a450-4c07-9965-d15418ec45c8" width="100%" muted autoplay loop></video>
     </td>
   </tr>
 </table>
