@@ -9,6 +9,8 @@ My research on [modular robot control](https://arxiv.org/abs/2505.10694) and [dy
 
 I graduated Summa Cum Laude from [Seoul National University (SNU)](https://en.snu.ac.kr/index.html). I am also an alumnus of [Gyeonggibuk Science High School](https://gbs-h.goeujb.kr/). I was a Gold Medalist in the Korean Physics Olympiad (KPhO) and was selected for the Summer and Winter candidate schools for the International Physics Olympiad (IPhO).
 
+Check out my recent [cv](CV/cv_MN_20251211.pdf) and [resume](CV/MN_resume.pdf).
+
 ## Devoting my life to Robotics
 In my early twenties, I decided to devote my career to robotics, deeply influenced by the works of [**Norbert Wiener**](https://en.wikipedia.org/wiki/Norbert_Wiener)—specifically [**Cybernetics**](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine) and [**The Human Use of Human Beings**](https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings). 
 The [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) movement is where the field of robotics was born.
