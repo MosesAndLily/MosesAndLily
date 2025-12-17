@@ -15,7 +15,11 @@ The [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) movement is where t
 The way Cybernetics bridged neuroscience, biology, information theory, and control theory to explain the complex mechanisms of living organisms deeply inspired me. That inspiration drove me to craft my [**Statement of Purpose**](CV/SOP_MIT_MECHE.pdf), and I was fortunate to be accepted to MIT—the very place where Wiener once taught in the Department of Mathematics
 
 ## Research - Key Videos 
-For my Master's Thesis, I studied the dynamic manipulation of flexible, deformable objects.
+For my Master's Thesis, I studied dynamic manipulation of flexible, deformable objects. 
+I discovered that using *primitives* serves as an effective *inductive bias* to dramatically simplify dynamic control of complex objects. 
+A list of selected publications are:
+- [*Dynamic primitives facilitate manipulating a whip*, 2020 BIOROB, **Best Student Paper Award**](https://ieeexplore.ieee.org/abstract/document/9224399/)
+- [*Learning to manipulate a whip with simple primitive actions–A simulation study*, 2023 iScience](https://www.cell.com/iscience/fulltext/S2589-0042(23)01472-4)
 
 <table style="border:0px; width:100%;">
   <tr style="border:0px;">
@@ -27,3 +31,15 @@ For my Master's Thesis, I studied the dynamic manipulation of flexible, deformab
     </td>
   </tr>
 </table>
+
+For my Doctoral Thesis, I merged Impedance Control with Dynamic Movement Primitives (DMP) and extend it to a definition of modules, thereby completing modular robot control.
+Both impedance and movements are primitives which we refer to as *Elementary Dynamic Actions (EDA).* 
+<p align="center">
+  <img src="images/module.png" alt="Module Screenshot" width="600">
+</p>
+
+Check out my [Github repository](https://github.com/MosesAndLily/DMP_vs_EDA) to try out the codes.
+A list of selected publications are:
+- [*On the Modularity of Elementary Dynamic Actions*, 2024 IROS, **Best Conference Paper Award**](https://ieeexplore.ieee.org/abstract/document/10801502)
+- [*Modular Robot Control with Motor Primitives*, 2025 ArXiv](https://arxiv.org/abs/2505.10694)
+- [*Combining Movement Primitives with Contraction Theory*, 2025 ArXiv](https://arxiv.org/abs/2501.09198)
