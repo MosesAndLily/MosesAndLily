@@ -14,7 +14,9 @@ In my early twenties, I decided to devote my career to robotics, deeply influenc
 The [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) movement is where the field of robotics was born.
 The way Cybernetics bridged neuroscience, biology, information theory, and control theory to explain the complex mechanisms of living organisms deeply inspired me. That inspiration drove me to craft my [**Statement of Purpose**](CV/SOP_MIT_MECHE.pdf), and I was fortunate to be accepted to MIT—the very place where Wiener once taught in the Department of Mathematics
 
-## Research - Key Videos 
+## Research - Key Videos (ALL REAL TIME!)
+I'm here for real-time robot control. **All videos are 1x. No fast-forward tricks since I'm impatient :)**
+
 For my Master's Thesis, I studied dynamic manipulation of flexible, deformable objects. 
 I discovered that using *primitives* serves as an effective *inductive bias* to dramatically simplify dynamic control of complex objects. 
 A list of selected publications are:
@@ -43,3 +45,18 @@ A list of selected publications are:
 - [*On the Modularity of Elementary Dynamic Actions*, 2024 IROS, **Best Conference Paper Award**](https://ieeexplore.ieee.org/abstract/document/10801502)
 - [*Modular Robot Control with Motor Primitives*, 2025 ArXiv](https://arxiv.org/abs/2505.10694)
 - [*Combining Movement Primitives with Contraction Theory*, 2025 ArXiv](https://arxiv.org/abs/2501.09198)
+
+### [Example 1] Modular Imitation Learning and Motion Planning
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/9a536635-940f-4d1f-826c-b91faa61a96c" width="100%" autoplay loop muted playsinline></video>
+</div>
+
+### [Example 2] Exploiting Kinematic Singularity
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/476458d2-0554-4f66-a36a-00e256334e22" width="100%" autoplay loop muted playsinline></video>
+</div>
+
+### [Example 3] Object-centric Compliance Control and Polishing Task
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/14033f0d-f204-4d88-9ff3-ce9345ea7371" width="100%" autoplay loop muted playsinline></video>
+</div>
