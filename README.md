@@ -1,7 +1,7 @@
 ## My name is Moses
 I am originally from South Korea. My Korean name is 나종욱 (羅鍾煜).
 
-I am the first member of **Holiday Robotics Research Inc.**, the US division of [Holiday Robotics](https://holiday-robotics.com/)---South Korea’s fastest-growing robotics company.
+I am the first member of **Holiday Robotics Research Inc.**, the US division of [Holiday Robotics](https://holiday-robotics.com/)-South Korea’s fastest-growing robotics company.
 
 Before Holiday Robotics, I was a Postdoctoral Research Scientist at the [Honda Research Institute (HRI)](https://usa.honda-ri.com/). I earned my PhD from [MIT](https://www.mit.edu/), where I was honored to have [Prof. Neville Hogan](https://scholar.google.com/citations?user=P7S5TY0AAAAJ&hl=en) as my advisor, the inventor of [Impedance Control](https://www.academia.edu/download/59138147/hogan1985_theory20190506-105695-l1rk3b.pdf). I was also privileged to work closely with [Prof. Jean-Jacques Slotine](https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en). During my graduate studies, I was fortunate to have [Dr. Johannes Lachner](https://jlachner.github.io/) as a mentor, who introduced me to the world of Differential Geometry. With Dr. Lachner, I co-developed [Explicit](https://github.com/explicit-robotics), which derives kinematic and dynamic parameters of the robot based on the Theory of Lie Groups and Lie Algebra.
 
