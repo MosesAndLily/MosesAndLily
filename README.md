@@ -1,4 +1,4 @@
-## My name is Moses
+## My name is Moses C. Nah
 I am originally from South Korea. My Korean name is 나종욱 (羅鍾煜).
 
 I am the first member of **Holiday Robotics Research Inc.**, the US division of [Holiday Robotics](https://holiday-robotics.com/)-South Korea’s fastest-growing robotics company.
