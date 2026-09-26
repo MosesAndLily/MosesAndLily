@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Moses C. Nah. Robotics, control, physical interaction. Holiday Robotics Research Inc.; Ph.D. in Mechanical Engineering, MIT." src="assets/banner-light.svg" width="100%">
+  <img alt="Moses C. Nah. Robotics, control, physical interaction. Holiday Robotics Research Inc.; Ph.D. at MIT." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -12,9 +12,9 @@
   <a href="CV/cv_MN_20260104.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cv-dark.svg"><img alt="Curriculum Vitae" src="assets/btn-cv-light.svg" height="32"></picture></a>
 </p>
 
-I am the first member of **Holiday Robotics Research Inc.**, the US division of [Holiday Robotics](https://holiday-robotics.com/), South Korea's fastest-growing robotics company. I build robot controllers for physical interaction: impedance control, contact-rich manipulation, and motor primitives, running in real time on real hardware.
+I work for **Holiday Robotics Research Inc.**, the US division of [Holiday Robotics](https://holiday-robotics.com/), South Korea's fastest-growing robotics company. I build robot controllers for physical interaction: impedance control, contact-rich manipulation, and motor primitives, running in real time on real hardware.
 
-I earned my Ph.D. in Mechanical Engineering at [MIT](https://www.mit.edu/), where I was honored to have [Prof. Neville Hogan](https://scholar.google.com/citations?user=P7S5TY0AAAAJ&hl=en), the inventor of [impedance control](https://doi.org/10.1115/1.3140702), as my advisor, and privileged to work closely with [Prof. Jean-Jacques Slotine](https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en). [Dr. Johannes Lachner](https://scholar.google.com/citations?user=i5KAhh4AAAAJ&hl=en) mentored me through graduate school and introduced me to differential geometry. Together we created [Explicit](https://github.com/explicit-robotics), an open-source library that derives a robot's kinematics and dynamics from Lie groups and Lie algebras.
+I earned my Ph.D. at [MIT](https://www.mit.edu/), where I was honored to have [Prof. Neville Hogan](https://scholar.google.com/citations?user=P7S5TY0AAAAJ&hl=en), the inventor of [impedance control](https://doi.org/10.1115/1.3140702), as my advisor, and privileged to work closely with [Prof. Jean-Jacques Slotine](https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en). [Dr. Johannes Lachner](https://scholar.google.com/citations?user=i5KAhh4AAAAJ&hl=en) mentored me through graduate school and introduced me to differential geometry. Together we created [Explicit](https://github.com/explicit-robotics), an open-source library that derives a robot's kinematics and dynamics from Lie groups and Lie algebras.
 
 Before MIT, I graduated *summa cum laude* from [Seoul National University](https://en.snu.ac.kr/index.html), after [Gyeonggibuk Science High School](https://gbs-h.goeujb.kr/). I was a Gold Medalist at the Korean Physics Olympiad and was selected for the Summer and Winter candidate schools of the International Physics Olympiad. I am originally from South Korea, and my Korean name is 나종욱 (羅鍾煜).
 
