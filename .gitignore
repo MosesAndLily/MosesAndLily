@@ -1,4 +1,4 @@
-
 .DS_Store
-txt
-pptx
+*.txt
+*.pptx
+assets/build/fonts/
